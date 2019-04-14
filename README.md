@@ -2,7 +2,7 @@
 
 **To view and interact with the demo Jupyter Notebooks, click this binder button:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/Training-and-Development-Comprehensive-Project/master?urlpath=lab/tree/Creating-Reproducible-Analyses.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/Training-and-Development-Comprehensive-Project/master?urlpath=lab/tree/Creating_Reproducible_Analyses.ipynb)
 
 ## Demo Jupyter Notebooks
 Files: Creating Reproducible Analyses.ipynb,Demo(completed).ipynb,Demo.r
