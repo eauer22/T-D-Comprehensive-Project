@@ -2,15 +2,15 @@
 
 **To view and interact with the demo Jupyter Notebooks, click this binder button:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses/master?urlpath=lab/tree/Demo_pt1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/Training-and-Development-Comprehensive-Project/master?urlpath=lab/tree/Creating Reproducible Analyses.ipynb)
 
 ## Demo Jupyter Notebooks
-Files: Demo_pt1.ipynb,Demo_pt2.ipynb,Demo_pt2.r
+Files: Creating Reproducible Analyses.ipynb,Demo(completed).ipynb,Demo.r
 
 Description: 
 
-* Demo_pt1.ipynb: Jupyter Notebook providing a technical overview of creating a jupyter notebook in jupyter lab and creating a binder
-* Demo_pt2.ipynb: Jupyter Notebook detailing a full workflow of some sample analyses, with literate documentation (converted from R script)
+* Creating Reproducible Analyses.ipynb: Jupyter Notebook providing a technical overview of creating a jupyter notebook in jupyter lab 
+* Demo(completed).ipynb: Jupyter Notebook detailing a full workflow of some sample analyses, with literate documentation (converted from R script)
 * Demo_pt2.r: R script displaying code for a full workflow of some sample analyses
 
 
